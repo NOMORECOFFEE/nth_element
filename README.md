@@ -10,8 +10,10 @@ input
     ...
     etc
 ].
+```
 
 output
 =======
 ``` erlang
-[nth sorting in decreasing order elements]
+[nth sorting in decreasing order elements].
+```
